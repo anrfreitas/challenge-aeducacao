@@ -8,6 +8,10 @@ GrupoA Educação - Full Stack Web Developer - Laravel
 - Deploy: Amazon Web Services (AWS)
 - Idioma do código: Inglês
 
+# Acessos
+- Frontend: d2hwz5auiqhiry.cloudfront.net:80
+- Backend: 107.20.127.63:8080/api
+
 # Decisão da arquitetura
 
 - Backend: Decidi utilizar `Dingo` no Laravel para ficar mais limpo a estrutura da API, além disso, achei importante criar uma camada de validação (`AbstractRequest`) para o Controller e camada de transformação (`AbstractTransformer`) para o Model `Student`. Apesar de inicialmente ter decidido criar um endpoint para filtrar estudantes por nome, acabei não utilizando, acabei fazendo algo mais simples no frontend.
