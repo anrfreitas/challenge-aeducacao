@@ -9,6 +9,7 @@ GrupoA Educação - Full Stack Web Developer - Laravel
 - Idioma do código: Inglês
 
 # Acessos
+Devido ao fato de que se passaram 3 semanas e não recebi feedback algum, estarei me desfazendo da estrutura na AWS. Irei deletar a máquina na EC2 e deletar a estrutura no S3 e CloudFront, os links acima a partir de hoje 25/08/2022 não irão mais funcionar.
 - Frontend: d2hwz5auiqhiry.cloudfront.net:80
 - Backend: 107.20.127.63:8080/api
 
